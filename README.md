@@ -35,5 +35,5 @@ The **PERES** is [MIT licensed](./LICENSE).
 
 Copyright 2020 by Sofrosyn Inc.
 
-Contributors: Fidelis uwem joseph and other follow the [Contributors](./contributors.md). To view the list of contributors 
+Contributors: Fidelis uwem joseph and other follow the [Contributors](https://github.com/Sofrosyn/PERES/blob/master/contributors). To view the list of contributors 
   
