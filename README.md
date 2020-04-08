@@ -1,7 +1,7 @@
 # PERES [Pandemic Endemic Response System]
 > 😷😷 A comprehensive pandemic/disaster response system.
 
-**PERES** Can be tuned to battle any pandemic or disaster that may occur, presently it is has been designed to fight the COVID-19 virus
+   **PERES** Can be tuned to battle any pandemic or disaster that may occur, presently it is has been designed to fight the COVID-19 virus
 
 ## Features
 
@@ -23,7 +23,8 @@
      - Android
      - Kotlin/java
      - Django
-    
+     - IBM watson cloud services
+     - IBM watson assistant 
 
   
   ## License
